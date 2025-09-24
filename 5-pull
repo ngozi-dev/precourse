@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a command to pull a repository
+git pull
