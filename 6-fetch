@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# command to fetch a repository
+git fetch
