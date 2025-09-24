@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file with the command to upload files to remote repository
+git push 
