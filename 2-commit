@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file with the command to commit a file 
+git commit -m "message"
